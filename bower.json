@@ -2,9 +2,13 @@
   "name": "Polymer core-ajax demo",
   "version": "1.0",
   "dependencies": {
-    "polymer": "Polymer/polymer#^0.5",
+
+    "polymer": "Polymer/polymer",
+    "layout": "Polymer/layout",
     "font-roboto": "Polymer/font-roboto",
-    "core-header-panel": "Polymer/core-header-panel",
-    "core-toolbar": "Polymer/core-toolbar"
+
+    "paper-header-panel": "PolymerElements/paper-header-panel",
+    "paper-toolbar": "PolymerElements/paper-toolbar"
+
   }
 }
